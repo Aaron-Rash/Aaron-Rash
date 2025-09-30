@@ -2,6 +2,14 @@
 I am a programming student whos passion lies in the arts.
 I love movies, comics, games, and music.
 I hope to make a few games myself, and contribute to storytelling
+
+Skills:
+  C#, Java, Python, SQL, HTML/CSS, ASP.Net, Blazor, Bootstrap
+
+Projects:
+  Music Theory Teacher
+  Paper Clouds
+  Food Pantry Website
 <!--
 **Aaron-Rash/Aaron-Rash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
