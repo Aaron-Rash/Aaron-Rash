@@ -4,7 +4,7 @@ I love movies, comics, games, and music.
 I hope to make a few games myself, and contribute to storytelling
 
 Skills:  
-* C#, Java, Python, SQL, HTML/CSS, ASP.Net, Blazor, Bootstrap
+* C#, Java, Python, SQL, HTML/CSS, ASP.Net, Blazor, Bootstrap, Godot
 
 Projects:  
   * [Music Theory Teacher](https://github.com/Aaron-Rash/MusicTheoryTeacher)  
