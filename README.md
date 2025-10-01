@@ -1,7 +1,7 @@
-## Hi there 👋  
-I am a software developer whose passion lies in the arts.
+# Hi there 👋  
+**I am a software developer whose passion lies in the arts.
 I love movies, comics, games, and music.
-I hope to make a few games myself, and contribute to storytelling
+I hope to make a few games myself, and contribute to storytelling**
 
 ---
 
@@ -25,12 +25,12 @@ Skills:
 
 Projects:  
 ---
-  * :musical_keyboard: [Music Theory Teacher](https://github.com/Aaron-Rash/MusicTheoryTeacher)
-    * Learn chords, scales, and intervals
-  * ✈️ [Paper Clouds](https://github.com/Aaron-Rash/PaperClouds)
-    * Endless runner fighting paper planes in the clouds
-  * 🗃️ Food Pantry Website
-    * Database/Inventory management, User & Role based access control, responsive UI, in ASP.NET (private repository)
+  * :musical_keyboard: **[Music Theory Teacher](https://github.com/Aaron-Rash/MusicTheoryTeacher)**
+    * ***Learn chords, scales, and intervals***
+  * ✈️ **[Paper Clouds](https://github.com/Aaron-Rash/PaperClouds)**
+    * ***Endless runner fighting paper planes in the clouds***
+  * 🗃️ **<ins>Food Pantry Website**</ins>
+    * ***Database/Inventory management, User & Role based access control, Responsive UI in ASP.NET (private repository)***
 ---
 <!--
 **Aaron-Rash/Aaron-Rash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
