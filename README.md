@@ -7,9 +7,12 @@ Skills:
 * C#, Java, Python, SQL, HTML/CSS, ASP.Net, Blazor, Bootstrap, Godot
 
 Projects:  
-  * [Music Theory Teacher](https://github.com/Aaron-Rash/MusicTheoryTeacher)  
-  * [Paper Clouds](https://github.com/Aaron-Rash/PaperClouds)  
-  * Food Pantry Website  
+  * [Music Theory Teacher](https://github.com/Aaron-Rash/MusicTheoryTeacher)
+    * Learn chords, scales, and intervals
+  * [Paper Clouds](https://github.com/Aaron-Rash/PaperClouds)
+    * Endless runner fighting paper planes in the clouds
+  * Food Pantry Website
+    * Database/Inventory management, User & Role based access control, responsive UI, in ASP.NET (private repo)
 <!--
 **Aaron-Rash/Aaron-Rash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
