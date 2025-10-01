@@ -7,8 +7,8 @@ I hope to make a few games myself, and contribute to storytelling
 
 Skills: 
 ---
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-512BD4.svg?logo=cshrp&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-5382A1.svg?logo=openjdk&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 ![SQL](https://img.shields.io/badge/SQL-red)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
