@@ -12,7 +12,7 @@ Projects:
   * [Paper Clouds](https://github.com/Aaron-Rash/PaperClouds)
     * Endless runner fighting paper planes in the clouds
   * Food Pantry Website
-    * Database/Inventory management, User & Role based access control, responsive UI, in ASP.NET (private repo)
+    * Database/Inventory management, User & Role based access control, responsive UI, in ASP.NET (private repository)
 <!--
 **Aaron-Rash/Aaron-Rash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
