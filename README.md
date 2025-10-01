@@ -25,11 +25,11 @@ Skills:
 
 Projects:  
 ---
-  * [Music Theory Teacher](https://github.com/Aaron-Rash/MusicTheoryTeacher)
+  * :musical_keyboard: [Music Theory Teacher](https://github.com/Aaron-Rash/MusicTheoryTeacher)
     * Learn chords, scales, and intervals
-  * [Paper Clouds](https://github.com/Aaron-Rash/PaperClouds)
+  * ✈️ [Paper Clouds](https://github.com/Aaron-Rash/PaperClouds)
     * Endless runner fighting paper planes in the clouds
-  * Food Pantry Website
+  * 🗃️ Food Pantry Website
     * Database/Inventory management, User & Role based access control, responsive UI, in ASP.NET (private repository)
 ---
 <!--
