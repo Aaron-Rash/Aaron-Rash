@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a programming student whos passion lies in the arts.
+I am a software developer whose passion lies in the arts.
 I love movies, comics, games, and music.
 I hope to make a few games myself, and contribute to storytelling
 
